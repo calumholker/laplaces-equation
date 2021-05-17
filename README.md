@@ -1,0 +1,2 @@
+# Laplace's Equation
+An  over-relaxation  method  is  used  to  numerically  solve  Laplace’s  equation  in  a  simple  case.   This is compared to the exact analytical solution and the values are found to all converge to exactly the analyticalsolution.  The results further agree with the theory behind the over-relaxation parameter, agreeing on theoptimum and maximum values.  This suggests that this method of approximation is accurate and can beused for more complex problems that cannot be solve analytically.
